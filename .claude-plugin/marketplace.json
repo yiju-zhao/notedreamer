@@ -1,0 +1,13 @@
+{
+  "name": "notedreamer",
+  "owner": {
+    "name": "yiju-zhao"
+  },
+  "plugins": [
+    {
+      "name": "notedreamer",
+      "source": "./",
+      "description": "Consolidate a Noteweaver knowledge bank against its evidence"
+    }
+  ]
+}

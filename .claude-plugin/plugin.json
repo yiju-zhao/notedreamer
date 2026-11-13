@@ -1,0 +1,9 @@
+{
+  "name": "notedreamer",
+  "version": "0.1.0",
+  "description": "Look back over a Noteweaver knowledge bank: verify pages against evidence, find duplicates and drift, and turn repeated corrections into proposals.",
+  "author": {
+    "name": "yiju-zhao"
+  },
+  "skills": "./skills/"
+}
